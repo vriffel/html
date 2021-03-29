@@ -1,0 +1,4 @@
+baseURL = "https://vriffel.github.io/"
+languageCode = "en-us"
+title = "Vinicius Ricardo Riffel"
+theme = "mytheme"
