@@ -1,10 +1,8 @@
-Olá! Me chamo Vinicius e esse é o meu site pessoal. No momento, sou estudante do
-sétimo período do [curso de Estatística](http://www.coordest.ufpr.br/) da
-[Universidade Federal do Paraná
-(UFPR)](https://www.ufpr.br/portalufpr/). Atualmente, faço iniciação científica
-sob orientação do professor [Cesar Augusto
-Taconeli](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=C085954) e
-sou estagiário na [Electrolux](https://institucional.electrolux.com.br/).
+Olá! Me chamo Vinicius e esse é o meu site pessoal. Sou graduado em Estatística
+pela UFPR. No momento, sou estudante de mestrado no [programa de pós-graduação
+em Estatística](http://www.est.ufmg.br/portal/pos-graduacao/mestrado-doutorado)
+na [Universidade Federal de Minas Gerais](https://ufmg.br/), sob orientação do
+professor [Renato Assunção](https://homepages.dcc.ufmg.br/~assuncao/).
 
 Nesse site eu compartilho o que estou estudando, trabalhos de disciplinas,
 resumos etc.
